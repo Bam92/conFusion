@@ -11,9 +11,12 @@
   "author": "Abel L. Mbula",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.2.2"
+    "lite-server": "^2.5.3"
   },
   "dependencies": {
-    "bootstrap": "^4.0.0-alpha.6"
+    "bootstrap": "^4.3.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
   }
 }
